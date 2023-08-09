@@ -1,0 +1,7 @@
+# files
+paths.txt
+
+# folders
+__pycache__/
+*/__pycache__/
+

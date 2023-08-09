@@ -1,0 +1,5 @@
+dicom2nifti==2.4.8
+numpy==1.25.2
+rt_utils==1.2.7
+SimpleITK==2.2.1
+TotalSegmentator==1.5.6
